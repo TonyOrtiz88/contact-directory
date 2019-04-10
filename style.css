@@ -1,0 +1,21 @@
+/* Whole body effects */
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+} 
+
+/* utility- main color control */
+h5 {
+    color: rgb(209, 143, 207);
+}
+a {
+    color: black;
+}
+a:hover {
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(209, 143, 207);
+}  
+.primeC { 
+    color: rgb(209, 143, 207);
+}
